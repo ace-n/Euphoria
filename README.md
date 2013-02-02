@@ -21,7 +21,6 @@ Search mode - specifies when the search will be performed.
   Manual - search will only be carried out when the user clicks the "Search" button (i.e. it won't be carried out during automatic searching)
   Disabled - search will never be carried out
 </pre>
-<br><br>
 Once you have your first search set up, check one or more of the checkboxes in the Item Sets section. If a given set is checked, the items it contains will be searched for; all other items will not be searched.<br><br>
 When you're ready to search, go to the Search Controls section and click "Search". Euphoria will then conduct the specified search(es).
 You will receive one of two messages:
@@ -29,7 +28,6 @@ You will receive one of two messages:
   No matching items were found
   X searches have found matching items [TODO]
 </pre>
-<br><br>
 If you receive the latter and "Highlight successful searches" is checked in the options menu, some of the searches in the Active Search List will appear green. To retrieve the results of the search, right click on it. A context menu should appear with the following options:
 <pre>
 Go to TF2OP trade - directs a web browser to the TF2 Outpost Trade specified in the Outpost ID column. If this ID is invalid, it will go to TF2Outpost.com.
@@ -39,7 +37,6 @@ Open results' TF2WH pages - this doesn't work yet. When it does, it will open th
 Compare to backpack - compares the search results against the backpack of the player specified in the Steam ID64 column. Copies to the clipboard a list of found items that the user doesn't already have, if any.
 </pre>
 Note that this context menu and its commands can be used when any search is right clicked, regardless of whether or not the search found anything.
-
 <br><br><b>Program options</b><br>
 These options are located in the Program Options menu. Note that these options are saved between sessions.
 <pre>
@@ -47,9 +44,8 @@ Highlight successful searches - if checked, searches that find matching items wi
 Ignore keyword case - if checked, keyword case is disregarded when filtering through items (e.g. "HUNTSMAN" = "huntsman"). Otherwise, keyword case is taken into account (e.g. "huntsman" != "HUNTSMAN")
 Save/Load past searches - if checked, searches made in the current session will be saved and automatically loaded the next time Euphoria is launched.
 </pre>
-
-<br><br><b>The item list</b><br>
-The item list is stored in the "TF2 HATS.txt" file. It is a list of TF2 Warehouse item IDs that tell Euphoria where to search. Its syntax is as follows.
+<br><b>The item list</b><br>
+The item list is stored in the "TF2 HATS.txt" file. It is a list of TF2 Warehouse item IDs that tell Euphoria what Item IDs to search. Its syntax is as follows.
 <pre>
 // - Comment
 Comment above a list of item IDs - item set name
