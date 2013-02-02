@@ -42,7 +42,7 @@ Partial Class Form1
         Me.clCrafts = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.clBuyerID64 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.clOPTrade = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.clReferrer = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.clNotes = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SearchMode = New System.Windows.Forms.DataGridViewComboBoxColumn()
         Me.cmsItemsView = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.GoToTF2OPTradeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -136,7 +136,7 @@ Partial Class Form1
         Me.gbxAutoSearchOptions.Size = New System.Drawing.Size(996, 130)
         Me.gbxAutoSearchOptions.TabIndex = 12
         Me.gbxAutoSearchOptions.TabStop = False
-        Me.gbxAutoSearchOptions.Text = "Options"
+        Me.gbxAutoSearchOptions.Text = "Search Controls"
         '
         'pbar
         '
@@ -171,15 +171,15 @@ Partial Class Form1
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(12, 12)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(114, 17)
+        Me.Label4.Size = New System.Drawing.Size(121, 17)
         Me.Label4.TabIndex = 15
-        Me.Label4.Text = "Stored Searches"
+        Me.Label4.Text = "Active Search List"
         '
         'dgvActiveTrades
         '
         Me.dgvActiveTrades.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText
         Me.dgvActiveTrades.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgvActiveTrades.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clKeyword, Me.clLevels, Me.clCrafts, Me.clBuyerID64, Me.clOPTrade, Me.clReferrer, Me.SearchMode})
+        Me.dgvActiveTrades.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.clKeyword, Me.clLevels, Me.clCrafts, Me.clBuyerID64, Me.clOPTrade, Me.clNotes, Me.SearchMode})
         Me.dgvActiveTrades.ContextMenuStrip = Me.cmsItemsView
         Me.dgvActiveTrades.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter
         Me.dgvActiveTrades.Location = New System.Drawing.Point(15, 33)
@@ -224,12 +224,12 @@ Partial Class Form1
         Me.clOPTrade.Name = "clOPTrade"
         Me.clOPTrade.ToolTipText = "Double Click to go to trade"
         '
-        'clReferrer
+        'clNotes
         '
-        Me.clReferrer.HeaderText = "Referrer"
-        Me.clReferrer.MinimumWidth = 50
-        Me.clReferrer.Name = "clReferrer"
-        Me.clReferrer.Width = 150
+        Me.clNotes.HeaderText = "Notes"
+        Me.clNotes.MinimumWidth = 50
+        Me.clNotes.Name = "clNotes"
+        Me.clNotes.Width = 150
         '
         'SearchMode
         '
@@ -283,7 +283,7 @@ Partial Class Form1
         Me.GroupBox2.Size = New System.Drawing.Size(235, 108)
         Me.GroupBox2.TabIndex = 17
         Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Options"
+        Me.GroupBox2.Text = "Program Options"
         '
         'cbx_stgsSLSearches
         '
@@ -342,7 +342,7 @@ Partial Class Form1
         Me.Controls.Add(Me.dgvActiveTrades)
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form1"
-        Me.Text = "Euphoria v1.0"
+        Me.Text = "Euphoria v"
         Me.gbxAutoSearchOptions.ResumeLayout(False)
         Me.gbxAutoSearchOptions.PerformLayout()
         CType(Me.dgvActiveTrades, System.ComponentModel.ISupportInitialize).EndInit()
@@ -376,14 +376,14 @@ Partial Class Form1
     Friend WithEvents CopySearchResultsToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents OpenTF2WHPagesOfResultsToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents CompareResultsToABackpackToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents lblAutoDisabled As System.Windows.Forms.Label
+    Friend WithEvents lblLicense As System.Windows.Forms.Label
     Friend WithEvents clKeyword As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents clLevels As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents clCrafts As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents clBuyerID64 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents clOPTrade As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents clReferrer As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents clNotes As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents SearchMode As System.Windows.Forms.DataGridViewComboBoxColumn
-    Friend WithEvents lblAutoDisabled As System.Windows.Forms.Label
-    Friend WithEvents lblLicense As System.Windows.Forms.Label
 
 End Class

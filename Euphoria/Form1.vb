@@ -6,6 +6,9 @@ Public Class Form1
 
     Declare Function Sleep Lib "kernel32" (ByVal dwMilliseconds As Integer) As Integer
 
+    ' Version
+    Public Version As Integer = 2
+
     ' Settings file name
     Public SettingsFile As String = "appsettings.txt"
 
@@ -55,6 +58,9 @@ Public Class Form1
     ' Misc. vars
     Public DoOnlineSearch As Boolean = True
     Private Sub Loader() Handles MyBase.Load
+
+        ' Auto-version title (this is from ContexType, another project of mine)
+        Me.Text &= CStr(Version / 100 + 1)
 
         ' Initial GUI functions
         lblAutoDisabled.Location = New Point(384, 502)
@@ -384,11 +390,11 @@ Public Class Form1
 
         ' Report results
         If MatchCnt > 0 Then
-            MsgBox(MatchCnt & " matching items have been found!")
+            MsgBox(MatchCnt & " searches have found matching items!")
         ElseIf Not CheckIsAuto Then
 
             ' Notify user that nothing was found if the search was user-initiated
-            MsgBox("No matching items were found.")
+            MsgBox("No searches found matching items.")
 
         End If
 
@@ -629,16 +635,24 @@ Public Class Form1
     End Sub
 
     Private Sub ConductSearch() Handles btnClick.Click, autoCheckWorker.ProgressChanged
+        Try
+            If (DoOnlineSearch AndAlso UpdateCache()) OrElse (Not DoOnlineSearch) Then ' Query WH, if necessary
 
-        If (DoOnlineSearch AndAlso UpdateCache()) OrElse (Not DoOnlineSearch) Then ' Query WH, if necessary
+                ' Conduct search
+                Try
+                    SearchAgain()
+                Catch
+                    If CheckIsAuto Then
+                        MsgBox("Something went wrong with the local search process. (TF2 Warehouse was accessed successfully.)")
+                    End If
+                End Try
 
-            ' Search isn't automatic
-            CheckIsAuto = False
-
-            ' Conduct search
-            SearchAgain()
-
-        End If
+            End If
+        Catch
+            If Not CheckIsAuto Then
+                MsgBox("Something went wrong with the TF2 Warehouse scanning process.")
+            End If
+        End Try
 
         ' Search complete
         SearchIsBusy = False
