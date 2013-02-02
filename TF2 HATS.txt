@@ -1,0 +1,351 @@
+// Nonvintage hats (most with levels)
+453;6;3ffee1a8f4a16d688515fca682161133 // The Hero's Tail
+539;6;e754f38bbeb32a5aca756e929bd22758 // The El Jefe
+597;6;92f91e77e95f681df714d0bc98c3e7b0 // The Bubble Pipe
+616;6;3c345f13ad0a4f0933e68a62ce551aef // The Surgeon's Stahlhelm
+644;6;215c5ccc7d78aa80312d77c492dd0b16 // The Head Warmer
+637;6;53caf73f2a5040b4dd039367d8841519 // The Dashin' Hashshashin
+240;6;b624b58c5c1c1838b5a7e6ece9c1c4d5 // Lumbricus Lid
+765;6;bce196ea1ece167f9d5e869df188cb52 // The Cross-Comm Express
+760;6;02cac7dd76636d01d53d47ca0c3ca7a2 // The Front Runner
+378;6;e91ac9ecb7f7857f16929d307353d276 // The Team Captain
+675;6;856c719dfc7a90fead6b0a06fe277545 // The Ebenezer
+617;6;5a8535f01d2f4008e9d7666c5c4be09a // The Backwards Ballcap
+719;6;40d1f8c9803694b77d242344d774e544 // The Battle Bob
+575;6;51ab21002eb907aa38cf97053edd7733 // The Infernal Impaler
+518;6;a49ff3b2b53c77272f8acbce9430c705 // The Anger
+671;6;732afa57eb515a301dc166bc8e037efd // The Brown Bomber
+150;6;c6bbce7b00cba01df643693019f43cc2 // Troublemaker's Tossle Cap
+360;6;cee06f190a2e3e10a88f8f7cfef75bc4 // Hero's Hachimaki
+213;6;52fc4b7ffe8df59f86a0c2232eddb279 // The Attendant
+701;6;aef79ddeb936103e689c2e54fc432b5d // The Lucky Shot
+703;6;bd572c2a4121c30573cd68849f8d9aae // The Bolgan
+753;6;4b56f374c101fc93cbfd37c5b7148f54 // The Waxy Wayfinder
+377;6;4971f015f2c9930b325d7204704e58b1 // Hottie's Hoodie
+600;6;605ab7aaf02113640ef74c50d053d2f4 // Your Worst Nightmare
+628;6;13ae487b9fd03197ccd020cbcfc1cf57 // The Virtual Reality Headset
+607;6;2696e208ecd3aa6310c44f5f48269c16 // The Buccaneer's Bicorne
+759;6;3e57c63d6c4d5307861025352a7da2d3 // The Fruit Shoot
+182;6;c6690c5f448b90b68543602ab7d4bb7c // Vintage Merryweather
+400;6;dd9b7d48fa0dea16b8e9190ba4cc664e // Desert Marauder
+229;6;9961258e5111fb092d1c892ee7e66396 // Ol' Snaggletooth
+538;6;8efea50b36a00dfb9ba1f32fa8d3c25a // The Killer Exclusive
+720;6;bdb69b03d094c3de2b615f258851b3cf // The Bushman's Boonie
+465;6;c10bb290aedf9ec4ccd621dd3aab5f3c // The Conjurer's Cowl
+517;6;ab1af77593c6779f7b59fff076141154 // The Dragonborn Helmet
+627;6;f37b90b42f4e2e1140422b42d260f0ed // The Flamboyant Flamenco
+101;6;98a46569f34a6f24d2122967f4cc8776 // Vintage Tyrolean
+359;6;d9e55ba76e4fd9869f7fa3ccc8562f85 // The Samur-Eye
+467;6;c0863a1cbf25b92fcf87962af86e111d // The Planeswalker Helm
+605;6;ce94e863face09652c15353bbc08ff91 // The Pencil Pusher
+615;6;ee640b5ca129dc9588a0d2d167200e7a // The Birdcage
+602;6;2ee52de2e38dc0453a2be7c98136eb7a // The Counterfeit Billycock
+601;6;e33b6f0ccd4811baf9ae661f1ae27365 // The One-Man Army
+626;6;b00c805dd8664504dbdc5e5906ef79c8 // The Swagman's Swatter
+316;6;5cfff2b14ace646b338a038a2ba302da // Pyromancer's Mask
+151;6;29fcfb117964bcb480269469a4234fcd // Triboniophorus Tyrannus
+146;6;a6f4e9c5bab4e1131501cef43a320bfa // Hustler's Hallmark
+622;6;f1f6ae7c6865b7c94ecf39c1af16c11a // L'Inspecteur
+219;6;ff96efc44e6af3c570b93e3ac716210a // The Milkman
+227;6;ee3747d9a5480e7f50375c779dd2f6c5 // Grenadier's Softcap
+340;6;f47a5feb1a64d051acadda99cb7b36ff // Defiant Spartan
+391;6;5ef8369dc2dfec434522ee8f72973d38 // Honcho's Headgear
+633;6;9ae1b5976fdafaf1cfa00490224cc6c7 // The Hermes
+764;6;7751453d2dee1363b16cbfad2c82e642 // The Cross-Comm Crash Helmet
+223;6;a3645a71b1176c0ec737d68915c163ba // Familiar Fez
+427;6;1331139e73d58b84179e25b60f779c18 // The Capo's Capper
+94;6;cb917add6dd511a6e4e083bb742ad424  // Texas Ten Gallon
+435;6;a0fd435a47f5a6d534ace06255fee67a // The Dead Cone
+603;6;2bbde7a33888d2eb4dc7f6a4465f0a0c // The Outdoorsman
+611;6;69f780792ada087ac8aea51369b323b5 // The Salty Dog
+613;6;5f3c2addb8694ad405064c1ea353aeb2 // The Gym Rat
+614;6;d7a0b8a53406c8b49ed17cd36fffea96 // The Hot Dogger
+459;6;a6e04cabe12b13bebbc49c71ef5b6746 // Cosa Nostra Cap
+145;6;a01053f01640d3e077dfb0ed68c600b6 // The Hound Dog
+384;6;9980131fee75f1811a73c9cd760a076d // Professor's Peculiarity
+388;6;1989b6f63d86210dbfebeec06de9ead9 // Private Eye
+152;6;d0db4e86942cda710bbb22d729e865e7 // Killer's Kabuto
+612;6;fdcf8d59545e84161a0ef2986ef2067b // The Little Buddy
+631;6;a94b06fc7b20564d9373a8a9eea40252 // The Hat With No Name
+382;6;abfd96ce701b135ac9fc827bf088de67 // Big Country
+319;6;1f5d43b79a95e18c9e34f19e40f6e66a // Détective Noir
+721;6;73a5070cfdd07ad717ece80aed5ae437 // The Conquistador
+635;6;3c54064afa0f78a9e0de4ded5538c2f7 // The War Head
+604;6;0e9750cb8c26f49b50ae4327afcf5f2b // The Tavish DeGroot Experience
+248;6;4b8a716bfb5ecb6326c07557c5992c1c // Napper's Respite
+109;6;27916cd50c8418a4906e20344af80079 // Professional's Panama
+110;6;f195fc0a606dfa1b737cb81a3b0dddad // Master's Yellow Belt
+120;6;cd4e4d39992de1f857bef189a1b7c3ef // Scotsman's Stove Pipe
+137;6;f5dd13216d363a35b4e11345f11ab674 // Noble Amassment of Hats
+178;6;25f6e02f3ba475cfb8213637a9efd146 // Safe'n'Sound
+181;6;ac1188da9cad39a65350d4b15980e45d // Bloke's Bucket Hat
+246;6;bf14eaace88a77d7f8f81a14b6a81749 // Pugilist's Protector
+290;6;76421d3fd30e5617f96060b068652f53 // Cadaver's Cranium
+291;6;2eea4ae8c7c553d6ba935f53c9dccb64 // Horrific Headsplitter
+318;6;1a203b11069d82809cc1b8c085ef23cb // Prancer's Pride
+358;6;4227c52457198cf34a6400a634626d0b // The Dread Knot
+48;6;eb279e2ccfe54c44a9906db3f0edaba9  // Mining Light
+51;6;4bdc007f92bcafbb7249430296fe94c7  // Pyro's Beanie
+53;6;33c5918b8685e8eb127993a5eb746e4c  // Trophy Belt
+467;6;c0863a1cbf25b92fcf87962af86e111d // The Planeswalker Helm
+98;6;36b02c43dbe36084a40228695c7d37b6  // Stainless Pot
+99;6;cd22a31d164dfb600881987a9de04590  // Tyrant's Helm
+390;6;ac1ea61923eb0bb9b8c17ac0aafc2694 // Reggaelator
+139;6;7ac1d8253d0334db14559613b74cb28f // Modest Pile of Hat
+394;6;7b51e5bad81c9c570e98a4b8d08e961c // Connoisseur's Cap
+135;6;826b7137c0e83913056c661fae1b53ef // Towering Pillar of Hats
+341;6;57fab4e1484b0c4621f00e3678491732 // A Rather Festive Tree
+514;6;3a28ddc8bfd6834a887e08d498cec60e // The Mask of the Shaman
+105;6;856734fa95d8590f531f92cf02c63cd0 // Brigade Helm
+516;6;91bebe0858e543738f8b79b7e5b448c6 // The Stahlhelm
+148;6;09f53a3b357f97585078cb5dd59ea54b // Hotrod
+309;6;c0322854d801cbc7ec7f117b788599ca // The Big Chief
+515;6;f94c45db12af11ae7aeb9809090b3c99 // Pilotka (all level 10)
+183;6;8772b22b7209d95d60ab474c8a6de11f // Seargeant's Drill Hat
+251;6;313a29577a44bde7fa61356574dd3b02 // Stout Shako
+303;6;a5cea5e394999f7b86f73c3b6d8d078e // Berliner's Bucket Helm
+313;6;a6604014396416e26f203f65fce80224 // Magnificent Mongolian
+55;6;38d2447694a0b2a6ee67ffee57570742  // Fancy Fedora
+252;6;8ad8d1b0d8b2d19e3680d274f593332d // Dr's Dapper Topper
+314;6;362822a724b4ef4713a8fc5304e9fdd5 // Larrikin Robin
+323;6;2ba823c14ad192e3f30d4d37eef0b147 // German Gonzila
+342;6;9b43c53dcde4af40db513ee1f54093eb // Prince Tavish's Crown
+381;6;f0a9219a85ac50cb5bbe905d7a7c456d // Medic's Mountain Cap
+395;6;42d3ac69d9b7cef882c89a5a76b35e6e // Furious Fukaamigasa
+403;6;422546a1b67a54aa0118f23828b90c5f // Sultan's Ceremonial
+445;6;b510b86c47a9daec445666c36de81032 // Armored Authority
+158;6;68f6d16c672d42d4e38bbeafc1ba8cfa // Shooter's Sola Topi
+177;6;e8d2e614fff5866854cd681a374bc8ce // Ze Goggles
+184;6;47e39b5f841e60fec00bbee6e8b4cacc // Gentleman's Gatsby
+398;6;22d308c24627ded047c490bda3246d73 // Doctor's Sack
+250;6;c4891d6c6c26d6f3e394461fd5b8ccfd // Chieftain's Challenge
+255;6;75ec2288083e3bd3b440166e8f6f875a // Sober Stuntman
+259;6;a9354b96a0e08d5aaf16abf8c050f1e1 // Carouser's Capotain
+306;6;d7a923cc0c11c7a5fd58b11606608742 // Scotch Bonnet
+322;6;a38a259ec384145773a97dd23f85ce55 // Buckaroos Hat
+344;6;28425f3942e0f24331fece33d993d716 // Crocleather Slouch
+379;6;6b348f6e641f1577e3d2f39e4f0482d8 // Western Wear
+383;6;3bb8967137869dd9ac49144ea4e229c9 // Grimm Hatte
+399;6;7e28afbeacc02f4873d6b1be2a85b6a3 // Ol' Geezer
+417;6;5fc368663253060d1a0c5a047af609fd // Jumper's Jeepcap
+439;6;3eeb58da912e65461607b102a8684bc3 // Lord Cockswain's Pith Helmet
+478;6;c9c7861831a7ef66e272dbb4f1c93ecd // Copper's Hard Top
+523;6;be7eb0ab44319aacf5e1e42c154497cc // The Company Man (all level 10)
+652;6;ae82a9f7b50c9c759b44fa3b0905ef92 // The Big Elfin Deal
+778;6;1fb1766be4105ce2d33f03a087189592 // The Gentleman's Ushanka
+779;6;37a0bc3d383418a399b3c2b07bfc1b27 // Liquidator's Lid
+780;6;9182562f6b8f057a840c25591bcddcea // The Fed-Fightin' Fedora
+338;6;bd59ad90e5de4e60976a193f8f5a4c7a // Industrial Festivizer
+96;6;094b400e35419843ffe0fefb5887e2fc  // Officer's Ushanka
+54;6;e23a2f9a6b9cfe82e98bca2c96faea2e  // Soldier's Stash
+437;6;0cb3d28674076982cd88dd10f3b92de9 // The Janissary Ketche
+52;6;fac97ec1b8b706021cded8616151f4ff  // Batter's Helmet
+108;6;0dc2d77bebcf228525c08bee12fcb7b1 // Backbiter's Billycock
+330;6;80a5809f004f76f8f76be1ff374dc65b // Coupe D'isaster
+324;6;b4efb2f7ee9db80ccc4ae20859747fd4 // Flipped Trilby
+106;6;dbc716da62539a3a1cb37e4377a094d8 // Bonk Helm
+174;6;7af9604e189281509f9446ede8648395 // Whoopee Cap
+339;6;35cd0dc415109db10351304cd9874322 // Exquisite Rack
+111;6;a6346e0e1c0a4eae702f2c9ba8e5e561 // Baseball Bill's Sports Shine
+185;6;b284eab89ecb0249455d2fc680463307 // The Heavy Duty Rag
+95;6;c4e7c222fffad9f73d059625be311c52  // Engineer's Cap
+147;6;81641cd462a592b1ff107ed14b19dc30 // Magistrate's Mullet
+216;6;09a5e8b4e0e4f5f1958b41f30e4dc6cd // Rimmed Raincatcher
+118;6;b4341b7a0671cca6aca5f24a32c7ef97 // Texas Slim's Dome Shine
+247;6;0b51ef65ff2916ab89de5aa7692aff3a // Old Guadalajara
+117;6;3be736f4f1eef027a467d6d8d9f7bc47 // Ritzy Rick's Hair Fixative
+179;6;eca894f4fd90bdacdd7fb1104dad74b4 // Tippler's Tricorne
+481;6;4e54537f4722e23c04b224103a86018e // Stately Steel Toe
+434;6;1af532ad6db423fcc881e32fb4edd02f // Brain Bucket
+49;6;d06ae9ae3028a266f322f79ec6817c25  // Football Helmet
+97;6;3617eb7f8f24f4fddcd7951d4fbc4a34  // Tough Guy's Toque
+480;6;a686ef7f96225ecf69e783b6dc90ce13 // Tam O' Shanter
+107;6;7d0d9f1680f997a7d1177a3dba150014 // Ye Olde Baker Boy
+521;6;b89f7748b62a93833a5ea20b8fbca825 // The Nanobalaclava
+47;6;246f17d6391de0acf8f2732bc42b66f2  // Demoman's Fro
+732;6;21c7f1487127541fc937a54cd5fb5286 // The Helmet Without a Home
+50;6;646359d783eca6d2fd8cbf6b7e0d5eb3  // Prussian Pickelhaube
+104;6;bcd0ef057a686de277adca9034bc5e81 // Otolaryngologist's Mirror
+321;6;228010212a3520c2f89ab2dfdf0f2eb4 // Madame Dixie
+263;6;9d64669b25872113e858392255b06c86 // Ellis' Cap (all level 10)
+564;6;08dd61b3bebaefe88e907e862442825a // The Holy Hunter (Halloween 2011)
+567;6;d9cb120a1fa1edd6ce753557e63b134d // The Buzz Killer (Halloween 2011)
+552;6;fd690152e113546851e0b0774a5c179f // The Einstein (Halloween 2011)
+543;6;ab1f1542c095423d28d5c3dbf19015b5 // The Hair of the Dog (Halloween 2011)
+546;6;476226c392d8207f7aca94a2ac0bb067 // The Wrap Battler (Halloween 2011)
+561;6;dba5784fc43c0e4b234dd53c39a46c11 // The Can Opener (Halloween 2011)
+
+// Vintage weapons with levels (TODO)
+
+// Items with craft #s (TODO)
+610;6;38ef1492d4004b4d69844cb0209b688b // A Whiff of the Old Brimstone
+405;6;87119b9a3b9087d4d9d6532ac7b0fec0 // Ali Baba's Wee Booties
+647;6;440cb85155f8e0d92275f90076f5f474 // All-Father
+587;6;3c7819a1e1aaeaa26d43df0de73ed648 // Apoco-Fists
+777;6;4e4be5454e306a9aa58197368ed25ddd // Apparatchik's Apparel
+571;6;7ba9a77ed298d0655ab602da79d338f1 // Apparition's Aspect
+767;6;7c3faa7b04c0b22954e2f741d5a29095 // Atomic Accolade
+450;6;eb617f203c5b3412fd1b522aa9877f6f // Atomizer
+772;6;3f4cc5aa5a2a26734c126b8a931f750e // Baby Face's Blaster
+738;6;c36ded640b87ca941ef78de1e1441d49 // Balloonicorn
+402;6;b26e107914144e695e0a8911f9c87e17 // Bazaar Bargain
+730;6;df29fe483034655b6f815f5948b5fde5 // Beggar's Bazooka
+461;6;466777b362efc59309c28d1ec6a3a877 // Big Earner
+485;6;e64f5bf7ad438a7d23652b7195ffbefe // Big Steel Jaw of Summer Fun
+776;6;5095a679879976d49c88d5408386eaf2 // Bird-Man of Aberdeen
+451;6;0857946baa7f2f71fa948ea119d2b695 // Bonk Boy
+653;6;e7cef4991a0be832268b6b95f6535b92 // Bootie Time
+608;6;4ec1db251ed470b1e8015704e470d29b // Bootlegger
+591;6;dd360e906c40397d0c59b6b86eff78c5 // Brainiac Goggles
+590;6;9037baf370135a59c6497519818a4464 // Brainiac Hairpiece
+606;6;07929af2aa0e107dac1e48243d7b01fc // Builder's Blueprints
+746;6;7544e95aa8f194bae73ff7fc65316914 // Burning Bongos
+782;6;aaedf7443f896383c656503abaf6089d // Business Casual
+731;6;ac28d8928284b6e88d95b61a2c7786bd // Captain's Cocktails
+625;6;09abd33a58390d888634e95fe0374e68 // Clan Pride
+751;6;f8d3f8417b53fed91dfd306418f740d1 // Cleaner's Carbine
+585;6;e1031e9ed48d37f45fe0282422816907 // Cold War Luchador
+620;6;b3d0c26b1f72628fea9a3ca3972169c4 // Couvre Corner
+642;6;8c1dd8ca7c0294192a768794391ab21e // Cozy Camper
+632;6;f1c36632ad8f84af8230203117a191d6 // Cremator's Conscience
+618;6;42eef5aafe4836a39a76a6821cc541a5 // Crocodile Smile
+351;6;a65cddf34eebb86a1185368fa36cbfc5 // Detonator
+522;1;2eb49c7ab4f7cacd0bd11a8322536d47 // Deus Specs
+525;11;78079da93f3992c3ccbda808be64f37a // Diamondback
+781;6;b8af7c963290207f572d330ca04ffb84 // Dillinger's Duffel
+447;6;549101a56e6703d6d2f809eb3e622f03 // Disciplinary Action
+766;1;477d29437dc6d43c7caa10d295eac0ac // Doublecross-Comm
+639;6;f5b483f70cfe37da0475fd832eb8f9f2 // Dr. Whoa
+460;6;61e995799332fa36d29ced4e13b4c567 // Enforcer
+589;6;d05c236664f26b7b4ddd34ed70de40ef // Eureka Effect
+426;6;f118f90d7675a9e2a1bcb013ece59810 // Eviction Notice
+425;6;71b6c01e69148350e647ede0dbf73b51 // Family Business
+446;6;b838e0c21e5729bd6577bd78510c02dc // Fancy Dress Uniform
+619;6;c0fd9c33292f94c9ee2135729aaba266 // Flair!
+ // Flying Guillotine
+783;6;38cf009eb3c7fc5902c0581c27e65cf9 // HazMat Headcase
+436;6;dc2b63f0bbde5f003b7fcbc911e69e32 // Hetman's Headpiece
+656;11;8486b5e53285903bdf57ecc3e7d53ed5 // Holiday Punch
+266;5;0651567d9dd7d4d4b0309b94acdafd91 // Horseless Headless Horsemann's Headtaker
+ // Human Cannonball
+ // Huo Long Heatmaker
+784;6;74e78d3eb74f4a8d5d7a001bf85a7cef // Idea Tube
+745;6;67c16fa687836b85f37dddf5dc2bddb1 // Infernal Orchestrina
+646;6;da3087bc4edd3abb11f6f073d8ababbd // Itsy Bitsy Spyer
+651;6;29908d3164b6cf84ee0c290329ea2732 // Jingle Belt
+650;6;32d2c55afdce2f1d4c90377079946f2c // Kringle Collection
+380;6;6ae61e5498fc95244fd1e3d810e3963d // Large Luchadore
+570;6;5e3dd74350416845046536512ce60b6d // Last Breath
+414;11;5f979e44acdd33e1919c47461993648d // Liberty Launcher
+771;6;86aa392baf20ca92d230275d5e2f8f94 // Liquor Locker
+739;6;28e1e7908a00ce5dc64f32bc2538fb9c // Lollichop
+440;6;4c7ce39d4beb34c713b9e99581f4cf1a // Lord Cockswain's Novelty Mutton Chops and Pipe
+526;6;c7d013a9170bb03321a97d3c3adacff7 // Machina
+462;6;b23cc4e2ed76c72a8bbb0c0d9107ab01 // Made Man
+595;6;d6f18c93673712fbdfdce7f2e4390def // Manmelter
+444;6;5b510e36321753708424f824a8b8897c // Mantreads
+586;6;9af5cd513e5d13698b64abf9b5fc8a39 // Mark of the Saint
+416;6;7ece4dc6132e2bb868aeb6d4b4a0c2ae // Market Gardener
+ // Marxman
+718;1;183ddcd325b10f3b026416882ceda872 // Merc Medal
+596;6;74e2df4f86b3050c9192959a7c0ffc8b // Moonman Backpack
+ // Neon Annihilator
+657;6;c618d7e723fff2b31d808c4bb1fdb09b // Nine-Pipe Problem
+513;6;a86a531ab1331239a1406747495cf5a3 // Original
+641;6;b0d1c10cdd9ba9964b3374fce184734c // Ornament Armament
+645;6;8f17d3905afda2060a2a2299f7ed48e9 // Outback Intellectual
+404;6;a0d4e09a8a5107b84b08f96c02f5fe53 // Persian Persuader
+594;6;8d18969b46bf57349d9481a41b799e99 // Phlogistinator
+623;6;8db6f424bc9a62a555c05bc6e922b532 // Photo Badge
+519;1;904ecddf72776c0dc0793c036caf3859 // Pip-Boy
+468;6;203f43b23a8a98a5fc486ae83e18739b // Planeswalker Goggles
+392;6;6c9f13059f96cbcf0bf475d30acca6f3 // Pocket Medic
+634;6;78c5879fcade1c00762aa1f14c256ca8 // Point and Shoot
+588;6;097cd083c4bb85e7c3e89e70c9dca2b3 // Pomson 6000
+484;6;634dc4f7672ce6369e7bb7234921bd48 // Prairie Heel Biters
+773;6;51be5f789c1e8f8babbb74573fc1813f // Pretty Boy's Pocket Pistol
+768;1;03f5b115970c5945f7ed778245050431 // Professor's Pineapple
+524;6;7febaee85429eb7b7ed48631f0caaf2c // Purity Fist
+769;1;386f5c83009468e06eefe7d285230806 // Quadwrangler
+741;6;cfa7595fe4cd149807a23446ba4e5ae4 // Rainblower
+ // Red-Tape Recorder
+415;11;a87ecbf237347684af83364ab3bea888 // Reserve Shooter
+483;6;a6f1cd0a340f64d4c1c70746612df570 // Rogue's Col Roule
+643;6;5cadf0b2e63d81337e15701259b09402 // Sandvich Safe
+740;6;5cb947d437cc3eaedd12a26c5724ab86 // Scorch Shot
+609;6;e9c4d39ab7981e16cb97264c4f547f75 // Scottish Handshake
+754;1;875861d445a2dc922af1a88f1fcf8338 // Scrap Pack
+479;6;7f574c4b4532cdd293e53a911a7a0753 // Security Shades
+401;6;f66096aa2c42d97e3c955af1bbe1ef66 // Shahanshah
+638;6;a8c6a1e7f6fe4af0a02ae375350f7588 // Sharp Dresser
+528;6;ce3f11b69b8e2a7a9dde2802f2b22195 // Short Circuit
+454;6;3c3db80028f9d15580b540e4628ac4f1 // Sign of the Wolf's School
+763;6;8d920a5ad12981ab4a342209e512f2fc // Sneaky Spats of Sneaking
+448;11;2bdbc41c431303874b8fb4e2224351ac // Soda Popper
+629;6;4dfe7a9d3f2574554d95f600595aa543 // Spectre's Spectacles
+406;6;36c2966f572c3c514ea33da5d8d3f7b4 // Splendid Screen
+649;6;d2d525196e430371746f0baf711ec1ca // Spy-cicle
+630;6;ee498969febfac8eb2e0b98cd37b62ff // Stereoscopic Shades
+670;6;dcc092c8dc904d4d48bd5d3ef21f41f3 // Stocking Stuffer
+770;6;50a7ee2c6481803c93abf91e61f500e0 // Surgeon's Side Satchel
+621;6;df564eed654685a4b2fbe5815c594c41 // Surgeon's Stethoscope
+593;6;76fe52bf9410ef9ccfe4f8bc8df11d4a // Third Degree
+424;6;c85e8d2e1858cdad258ddfc3facabc63 // Tomislav
+757;6;932d12c9aa6e4509d71918938a8c621e // Toss-Proof Towel
+ // Triad Trinket
+572;6;a735e5fdb9c579a88574ff7fd026ea59 // Unarmed Combat
+393;6;bf27287f34a7e1f289c85e7091d302ef // Villain's Veil
+574;6;f473e6ce2b18e714aa3c479d6c97dc0b // Wanga Prick
+527;6;5a8350ea938dabe8e5dda9bd15f24157 // Widowmaker
+449;6;e06cd2879c215be19a0fccb83b37a155 // Winger
+520;1;c174b31e19998f2a4180c36d1be730ff // Wingstick
+648;6;843d63ba88246c5368672cf1ee570e61 // Wrap Assassin
+
+// Vintage hats with levels
+158;3;9e5b098e00c28f9ce9f739c3624c3de5 // V. Shooter's Sola Topi
+98;3;d9c65cd6008974b8d96563c43eca1304  // V. Stainless Pot
+148;3;52a37fb9ab7834a782c4f3feabe2e37a // V. Hotrod
+48;3;4063bb30ea119919ef241280a7eb1e2a  // V. Mining Light
+118;3;f7fa514b2099083a6f4dd48eaa5cea0d // V. Texas Slim's Dome Shine
+97;3;b87b69ee43485c50e912c87edf37ae39  // V. Tough Guy's Toque
+100;3;9347e7dc95850078a5fc8f2fdc0dfa9b // V. Glengarry Bonnet
+96;3;caa9f572a4ec165d0d847424fa7cfab0  // V. Officer's Ushanka
+106;3;b25249fac7290aa1f79f41bbec7d37da // V. Bonk Helm
+107;3;6538b8f6dd51b038b9b403184decd55c // V. Ye Olde Baker Boy
+109;3;b9518a38e229bdb38adeef408465fe1e // V. Professional's Panama
+95;3;5374f770b46497871a57c77437b7c831  // V. Engineer's Cap
+103;3;89f91b914caa6112791e594a113f2c8d // V. Camera Beard
+104;3;3ca642ed67126f84db4d8f7f60b0189f // V. Otolaryngologist's Mirror
+53;3;f9248ed6cd4784ae802fc7ff3e68fc42  // V. Trophy Belt
+181;3;f97fd727e5a04abefe2a199c4c58c2a9 // V. Bloke's Bucket Hat
+146;3;d2fd30448c4993aa4b951f371bc24e66 // V. Hustler's Hallmark
+99;3;7107ffaa27b9ce75d5f3d9a902cb48b2  // V. Tyrant's Helm
+137;3;67b69b1f4baf478d6af06c101bf18de7 // V. Noble Amassment of Hats
+108;3;5b61997a59b23dc8870779ab14ae69f4 // V. Backbiter's Billycock
+51;3;07b4afdfd38b6f597e04d1bc761606d0  // V. Pyro's Beanie
+117;3;c483323d1e7daf76579fd05e1e5f3d8a // V. Ritzy Rick's Hair Fixative
+50;3;49fcaea8dbfd11447cdd755f44dc08e9  // V. Prussian Pickelhaube
+158;3;9e5b098e00c28f9ce9f739c3624c3de5 // V. Shooter's Sola Topi
+178;3;5ed9218933d143158afd61aeeb7045ad // V. Safe'n'Sound
+184;3;9955bfc742f61b8104bb12dbf2fa8a0a // V. Gentleman's Gatsby
+49;3;2f586f509204a742b28dbfdcac5e577a  // V. Football Helmet
+175;3;41e08bcc7afaa11cb89b532dc99f62f8 // V. Whiskered Gentleman
+// 743;3;a311b4da836b1dee73ef64f93be81a2e // V. Pyrovision Goggles
+144;3;0f5da2b34a71a2bf72bd4325ddecbded // V. Physician's Procedure Mask
+185;3;29e9341be953edd862fc2eeda1a0d10d // V. Heavy Duty Rag
+152;3;e531788e22506d30dbf93bbe16322247 // V. Killer's Kabuto
+47;3;b3ec9e5ae0fb69c8b9552e25b35aebf2  // V. Demoman's Fro
+105;3;d0c15ccac148a75e01a8b2b0b8dcc820 // V. Brigade Helm
+139;3;d36796fe9440176ebb12f531a4b6bfe1 // V. Modest Pile of Hat
+150;3;5e87e604a38d7bf0b59075ea4751a1a2 // V. Troublemaker's Tossle Cap
+102;3;3e3ecd761d8024ce36025dd5f69f01b2 // V. Respectless Rubber Glove
+177;3;96261a85fd1948fa9a243477b623af0f // V. Ze Goggles
+52;3;0912e6803673a54678d15f728f518a2d  // V. Batter's Helmet
+179;3;353ce51afe7079775292d51f04a8f3a8 // V. Tippler's Tricorne
+182;3;3f43b604381ddcdeb60ef13602b18081 // V. Vintage Merryweather
+151;3;71dc511a045fc797daae284507aefdab // V. Triboniophorus Tyrannus
+94;3;762611e8e1fe06bac219860af7cc2d92  // V. Texas Ten Gallon
+135;3;566651e46607b30b693835fa26180800 // V. Towering Pillar of Hats
+145;3;27e304d51465c6ed3407b2c57922f422 // V. Hound Dog
+55;3;3a392a78b280fdf3626147cfea1b5240  // V. Fancy Fedora
+111;3;0e5f24e6829580d1a1e4c1c3c5f6e5c1 // V. Baseball Bill's Sports Shine
