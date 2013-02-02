@@ -52,7 +52,7 @@ Comment above a list of item IDs - item set name
 Comment after an item ID - item name (e.x. 123:456:789 // Random Item Name )
 Item IDs - the TF2 Warehouse ID of the item to be searched. This can be found in the URL of the item's TF2WH page. (TF2WH URLs have the format "tf2wh.com/item.php?id=[Item ID here]")
 </pre>
-<br><br><b>Search Controls</b><br>
+<br><b>Search Controls</b><br>
 Enable Autocheck - enables automatic periodic checking of TF2 Warehouse
 Autocheck interval - the interval at which automatic checks are carried out, in minutes. Must be an integer > 0.
 Hide Internet Explorer window - hides the Internet Explorer window. 
