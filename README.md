@@ -14,10 +14,10 @@ Each search consists of 7 parameters. If a particular parameter is not specified
 <pre>
 Keyword - only item names that contain this value will be searched. (e.x. A keyword of "huntsman" would exclude any item without "huntsman" in their name).
 Levels - a comma-separated list of levels to search for. Only items that have matching levels will be searched.
-Craft #s - identical to levels, except this uses craft numbers.
+Craft #s - identical to Levels, except this uses craft numbers.
 Buyer ID64 - the Steam ID64 of the person buying/collecting the items.
 Outpost ID - the numerical ID of a TF2 Outpost trade relevant to the search.
-Notes - a place for additional information about the search.
+Notes [TODO] - a place for additional information about the search.
 Search mode - specifies when the search will be performed.
   Automatic - search will always be carried out
   Manual - search will only be carried out when the user clicks the "Search" button (i.e. it won't be carried out during automatic searching)
@@ -41,6 +41,14 @@ Open results' TF2WH pages - this doesn't work yet. When it does, it will open th
 Compare to backpack - compares the search results against the backpack of the player specified in the Steam ID64 column. Copies to the clipboard a list of found items that the user doesn't already have, if any.
 </pre>
 Note that this context menu and its commands can be used when any search is right clicked, regardless of whether or not the search found anything.
+
+<br><br><b>Program options</b><br>
+These options are located in the Program Options menu. Note that these options are saved between sessions.
+<pre>
+Highlight successful searches - if checked, searches that find matching items will be highlighted green.
+Ignore keyword case - if checked, keyword case is disregarded when filtering through items (e.g. "HUNTSMAN" = "huntsman"). Otherwise, keyword case is taken into account (e.g. "huntsman" != "HUNTSMAN")
+Save/Load past searches - if checked, searches made in the current session will be saved and automatically loaded the next time Euphoria is launched.
+</pre>
 
 <br><br><b>The item list</b><br>
 The item list is stored in the "TF2 HATS.txt" file. It is a list of TF2 Warehouse item IDs that tell Euphoria where to search. Its syntax is as follows.
