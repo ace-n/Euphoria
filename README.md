@@ -53,9 +53,10 @@ Comment after an item ID - item name (e.x. 123:456:789 // Random Item Name )
 Item IDs - the TF2 Warehouse ID of the item to be searched. This can be found in the URL of the item's TF2WH page. (TF2WH URLs have the format "tf2wh.com/item.php?id=[Item ID here]")
 </pre>
 <br><b>Search Controls</b><br>
+<pre>
 Enable Autocheck - enables automatic periodic checking of TF2 Warehouse
 Autocheck interval - the interval at which automatic checks are carried out, in minutes. Must be an integer > 0.
 Hide Internet Explorer window - hides the Internet Explorer window. 
-<br><br><b>Known issues</b><br>
+</pre><br><b>Known issues</b><br>
 The program's Internet Explorer window will only be closed if the program exits gracefully. (I.e. via the close button and not by ending its process)
 
