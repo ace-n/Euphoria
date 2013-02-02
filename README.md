@@ -25,8 +25,8 @@ Once you have your first search set up, check one or more of the checkboxes in t
 When you're ready to search, go to the Search Controls section and click "Search". Euphoria will then conduct the specified search(es).
 You will receive one of two messages:
 <pre>
-  No matching items were found
-  X searches have found matching items [TODO]
+  No searches have found matching items
+  X searches have found matching items (where X > 0)
 </pre>
 If you receive the latter and "Highlight successful searches" is checked in the options menu, some of the searches in the Active Search List will appear green. To retrieve the results of the search, right click on it. A context menu should appear with the following options:
 <pre>
@@ -52,4 +52,10 @@ Comment above a list of item IDs - item set name
 Comment after an item ID - item name (e.x. 123:456:789 // Random Item Name )
 Item IDs - the TF2 Warehouse ID of the item to be searched. This can be found in the URL of the item's TF2WH page. (TF2WH URLs have the format "tf2wh.com/item.php?id=[Item ID here]")
 </pre>
+<br><br><b>Search Controls</b><br>
+Enable Autocheck - enables automatic periodic checking of TF2 Warehouse
+Autocheck interval - the interval at which automatic checks are carried out, in minutes. Must be an integer > 0.
+Hide Internet Explorer window - hides the Internet Explorer window. 
+<br><br><b>Known issues</b><br>
+The program's Internet Explorer window will only be closed if the program exits gracefully. (I.e. via the close button and not by ending its process)
 
