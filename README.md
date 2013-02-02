@@ -6,7 +6,7 @@ A .NET application for finding uniquely-leveled/numbered Team Fortress 2 items o
 <br><br><b>Getting started</b><br><br>
 To start Euphoria, download and compile all the source code files. Make sure that the file called "TF2 HATS.txt" is in the same directory as the compiled .EXE. Then, run the .EXE.
 <br><br>
-When Euphoria ia opened, you should see one of two things.<pre>
+When Euphoria is opened, you should see one of two things.<pre>
 A message asking you to log into TF2WH.com (Good - log-in and then click OK)
 A message saying that the "TF2 HATS.txt" file cannot be found. Download the "TF2 HATS.txt" file from GitHub (this project) and place it in the same directory as the Euphoria executable
 </pre>Once Euphoria is running, go to the Active Search List and click on the top row to make a new search.<br>
