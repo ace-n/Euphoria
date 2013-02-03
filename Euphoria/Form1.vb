@@ -7,7 +7,7 @@ Public Class Form1
     Declare Function Sleep Lib "kernel32" (ByVal dwMilliseconds As Integer) As Integer
 
     ' Version
-    Public Version As Integer = 2
+    Public Version As Integer = 3
 
     ' Settings file name
     Public SettingsFile As String = "appsettings.txt"
@@ -381,7 +381,7 @@ Public Class Form1
 
             ' Perform search
             ResultsList.Add(SearchCache(SearchObj.Levels, SearchObj.Crafts, SearchObj.Keyword))
-            MatchCnt += ResultsList.Last.Count ' Add match count of last search to the total match count
+            MatchCnt += Math.Sign(ResultsList.Last.Count) ' Add match count of last search to the total match count
 
         Next
 

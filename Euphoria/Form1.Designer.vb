@@ -78,7 +78,7 @@ Partial Class Form1
         Me.btnRequery.Name = "btnRequery"
         Me.btnRequery.Size = New System.Drawing.Size(126, 28)
         Me.btnRequery.TabIndex = 7
-        Me.btnRequery.Text = "Requery TF2WH"
+        Me.btnRequery.Text = "Update Cache"
         Me.btnRequery.UseVisualStyleBackColor = True
         '
         'Label3
