@@ -1019,6 +1019,7 @@ Public Class Form1
 
         ' Make sure at least one row is selected
         If dgvActiveTrades.SelectedRows.Count = 0 Then
+            MsgBox("You haven't selected a trade.")
             Exit Sub
         End If
 
@@ -1055,6 +1056,7 @@ Public Class Form1
         ' Get player ID64
         Dim PlayerID64 As String = ActiveRow.Cells(3).EditedFormattedValue.ToString
         If PlayerID64.Length < 2 OrElse Regex.Match(PlayerID64, "\d+").Length <> PlayerID64.Length Then
+            MsgBox("The Steam ID64 is missing or invalid.")
             Exit Sub ' Skip invalid ID64s (a valid ID64 is required by the Steam API to determine whose backpack to fetch)
         End If
 
@@ -1062,8 +1064,9 @@ Public Class Form1
         Dim ItemExistsList As List(Of Boolean) = SteamAPI.DownloadBackpack(PlayerID64, DefIdxList, "", SearchObj.Levels, SearchObj.Crafts)
 
         ' Print the search results for the items the user doesn't have
+        Dim UserIsMissingItems As Boolean = ItemExistsList.Contains(False)
         Dim OutputStr As String = ""
-        If ItemExistsList.Contains(False) Then
+        If UserIsMissingItems Then
 
             ' The user queried is missing at least 1 of the search results
             OutputStr = "This user DOES NOT have the following items from the search results list:"
@@ -1092,7 +1095,7 @@ Public Class Form1
             My.Computer.Clipboard.SetText(OutputStr)
         End If
 
-        MsgBox("Backpack comparison complete")
+        MsgBox("Backpack comparison complete; The backpack queried" & If(UserIsMissingItems, "has", "does not have") & "all the items found.")
 
     End Sub
 
